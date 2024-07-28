@@ -47,7 +47,7 @@ tunnels:
   - network: [tcp, udp]
     address: 127.0.0.1:7777
     target: 141.11.91.66:11681
-    proxy: 🚀 节点选择
+    proxy: 🇭🇰 香港节点
 
 # 系统代理跳过列表 cfw-bypass
 # System proxy will ignore these domains(or ipnet)
